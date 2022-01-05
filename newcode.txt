@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <title>bg.html</title>
+    <style>
+body {
+  background-image: url('https://www.wallpapermaiden.com/wallpaper/15848/download/1600x900/anime-clouds-sky.jpg'); background-size: cover; background-repeat: no-repeat;
+  background-repeat: no-repeat;
+
+}
+</style> <style>
+@media screen and (max-width: 600px) {
+  div {
+    font-size: 9px;
+  }
+}
+</style> </head>
+  <body style="                                                                                                                      font-size: 0.9vw; font-type: HelveticaTrebuchet; font-family: Arial, Helvetica, Verdana;">
+    <style>A {text-decoration: none;}</style>
+    <div class="w3-container">
+      <div class="w3-row w3-border-bottom">
+        <div class="w3-col s6" style="text-align: right; bottom: 0px"><span style="color: white;">
+            Interfaith dialogue and exploration of beliefs in a safe format</span></div>
+        <div class="w3-col s6" style="text-align: center;"> <img src="file:///home/amarnath/Documents/Interfaith/interfaith.png"
+            alt="bg" width="60%"> </div>
+      </div>
+      <div class="w3-row w3-border-bottom" style="text-align: center; color:white">
+        <div class="w3-col s2"><a href="https://www.interfaith.org/about/." title=" ">About
+            Interfaith.org</a></div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/community/" title="Main Forum Page">Interfaith
+            Forums</a></div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/community/find-new/85315529/posts">New
+            Posts</a></div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/community/search/">Search
+            Interfaith.org</a></div>
+        <div class="w3-col s2"><a href="https://www.intrfaith.org/community/login/.">Login
+            / Sign Up with email</a></div>
+        <div class="w3-col s2"><a href="/about/#contact">Contact Us</a></div>
+      </div>
+      <div class="w3-row w3-transparent" style="color: white;">
+        <div class="w3-col s2"><a href="https://www.interfaith.org/christianity/"
+            title="the study of christianity and christian religious texts and writings - includes the largest online collective of new testament apocrypha">Christianity</a>
+        </div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/islam/" title="the study of islam and islamic religious texts and writings.">Islam</a>
+        </div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/hinduism/" title="the study of hinduism and hindu religious texts and writings.">Hinduism</a>
+        </div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/buddhism/" title="the study of buddhism and buddhist religious texts and writingss">Buddhism</a>
+        </div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/confucianism/"
+            title="the study of confucianism and confucian religious texts and writings.">Confucianism</a>
+        </div>
+        <div class="w3-col s2"><a href="https://www.interfaith.org/taoism/" title="the study of taoism and tao religious texts and writings.">Taoism</a>
+        </div>
+        <div class="w3-row w3-transparent" style="text-align: center; color: white;">
+          <div class="w3-col s2"><a href="https://www.interfaith.org/shinto/" title="the study of shinto, with reference to shinto texts and writings.">Shintoism</a>
+          </div>
+          <div class="w3-col s2"><a href="https://www.interfaith.org/sikhism/" title="the study of sikhism and sikh religious texts and writings.">Sikhism</a>
+          </div>
+          <div class="w3-col s2"><a href="https://www.interfaith.org/judaism/" title="the study of judaism and judaic religious texts and writings.">Judaism</a>
+          </div>
+          <div class="w3-col s2"><a href="http://www.interfaith.org/bahai/" title="the study of bahai and bahai religious texts and writings">Bahai</a>
+          </div>
+          <div class="w3-col s2"><a href="https://www.interfaith.org/zoroastrianism/"
+              title="the study of the religion of zoroastrinism, and zoroastrian religious texts and writings.">Zoroastrianism</a>
+          </div>
+          <div class="w3-col s2"><a href="https://www.interfaith.org/community/forums/comparative-studies/"
+              title="Comparing religious beliefs across human history and cultures.">Comp.Studies</a></div>
+        </div>
+        <img src="file:///home/amarnath/Documents/vert.png" alt="v" height="60%">
+        <div class="w3-row" style="text-align: center;">
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="htpps://www.interfaith.org/community/forums/abrahamic-religions/"><button
+                  class="w3-button w3-blue w3-round-xlarge">Abrahamic Religions</button></a><span
+                class="w3-dropdown-content w3-blue w3-padding w3-round-large" style="left: -25px; width: 233px;">
+                Explore Abrahamic religions: Judaism, Christianity, Islam,
+                Bahai.</span></p>
+          </div>
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="https://www.interfaith.org/community/forums/eastern/"> <button
+                  class="w3-button w3-blue w3-round-xlarge">Eastern Thought</button></a><span
+                class="w3-dropdown-content w3-blue w3-padding w3-round-large" style="left: -25px; width: 233px;">Eastern
+                religions: Hinduism, Buddhism, Tao, Consucianism, Sikhism,
+                Shinto.</span></p>
+          </div>
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="https://www.interfaith.org/christianity/apocrypha/"><button
+                  class="w3-button w3-blue w3-round-xlarge">NT Apocrypha</button></a><span
+                class="w3-dropdown-content w3-blue w3-padding w3-round-large" style="left: -25px; width: 233px;">Comprehensive
+                Internet collection of Christian scriptures that were left out
+                of New Testment.</span></p>
+          </div>
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="https://www.interfaith.org/ancient/"><button class="w3-button w3-blue w3-round-xlarge">Ancient
+                  Mythology</button></a><span class="w3-dropdown-content w3-blue w3-padding w3-round-large"
+                style="left: -25px; width: 233px;">Ancient mythology of the
+                Celts, Mesopotamians, Mesoamericans, Romans, and Egyptians.</span></p>
+          </div>
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="https://www.interfaith.org/forum/alternative.html"><button
+                  class="w3-button w3-blue w3-round-xlarge">Alternate
+                  Spirituality</button></a><span class="w3-dropdown-content w3-blue w3-padding w3-round-large"
+                style="left: -75px; width: 233px;">Explore alternative
+                spirituality of Esoterism, Pagan, New Age, Magic and Masonry.</span></p>
+          </div>
+          <div class="w3-col s2">
+            <p class="w3-dropdown-hover" style="background-color: transparent;">
+              <a href="https://www.interfaith.org/articles/"><button class="w3-button w3-blue w3-round-xlarge">Interfaith
+                  Library</button></a><span class="w3-dropdown-content w3-blue w3-padding w3-round-large"
+                style="left: -150px; width: 233px;">A library of interfaith
+                articles dealing with belief and spirituality, across a range of
+                faith and non-faith belief.</span></p>
+          </div>
+        </div>
+        <img src="file:///home/amarnath/Documents/vert1.png" alt="vi" height="100%"><span
+          style="color: black;"> </span>
+        <div style="text-align: center;"><span style="color: black;"><a href="https://www.interfaith.org/">Interfaith.org</a>
+            © All rights reserved.&nbsp; |&nbsp; <a href="https://www.interfaith.org/about/#staff"
+              title="Staff">Staff</a> &nbsp;|&nbsp; <a href="https://www.interfaith.org/about/#privacy"
+              title="Privacy">Privacy</a> &nbsp;|&nbsp; <a href="https://www.interfaith.org/about/#disclaimer"
+              title="Disclaime">Disclaimer</a> &nbsp;|&nbsp; <a href="https://www.interfaith.org/about/#press"
+              title="Press">Press/Media</a></span> </div>
+      </div>
+    </div>
+  </body>
+</html>
